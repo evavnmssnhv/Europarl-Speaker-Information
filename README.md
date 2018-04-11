@@ -5,7 +5,7 @@ The need for more personalized Machine Translation (MT) is highlighted in Mirkin
 
 To address the aforementioned problem, we compiled a collection of parallel corpora for 20 language pairs. We annotated parallel sentences from Europarl (Koehn, 2005) with speaker information (name, gender, age, date of birth, euroID and date of the session) based on monolingual Europarl source files which contain speaker names on the paragraph level. We used meta-information of the members of the European Parliament (MEPs) released by Rabinovich et al. (2017) (which includes a.o. name, country, date of birth and gender predictions per MEP) to retrieve the demographic annotations. An example of the annotations used:
 
-An overview of the language pairs as well as the amount of annotated parallel sentences per language pair is given in table below:
+An overview of the language pairs as well as the number of annotated parallel sentences we retrieved per language pair is given in table below:
 
     EN-BG:		306.380
     EN-CS:		491.848
