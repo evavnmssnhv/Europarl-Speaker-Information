@@ -52,6 +52,8 @@ The data is provided in zip files per language. Every zip file contains 3 files:
         <LINECOUNT="5" EUROID="28257" NAME="ivo belet" LANGUAGE="UNK" GENDER="MALE" DATE_OF_BIRTH="1959-6-7" SESSION_DATE="11-02-15" AGE="52"/>
         <LINECOUNT="6" EUROID="1289" NAME="proinsias de rossa" LANGUAGE="UNK" GENDER="MALE" DATE_OF_BIRTH="1940-5-15" SESSION_DATE="04-03-11" AGE="64"/>
 
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
 If you use our dataset, please cite:
         
     Eva Vanmassenhove and Christian Hardmeier, 2018. Europarl Datasets with Demographic Speaker Information. European      Association for Machine Translation (EAMT), May 28-30, Alicante, Spain [accepted].
