@@ -55,7 +55,7 @@ The data is provided in zip files per language. Every zip file contains 3 files:
 
 If you use our dataset, please cite:
         
-    Eva Vanmassenhove, Christian Hardmeier, 2018. Europarl Datasets with Demographic Speaker Information. European      Association for Machine Translation (EAMT), May 28-30, Alicante, Spain [accepted].
+    Eva Vanmassenhove and Christian Hardmeier, 2018. Europarl Datasets with Demographic Speaker Information. European      Association for Machine Translation (EAMT), May 28-30, Alicante, Spain [accepted].
 
 References:
         
