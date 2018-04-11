@@ -5,19 +5,30 @@ The need for more personalized Machine Translation (MT) is highlighted in Mirkin
 
 To address the aforementioned problem, we compiled a collection of parallel corpora for 20 language pairs. We annotated parallel sentences from Europarl (Koehn, 2005) with speaker information (name, gender, age, date of birth, euroID and date of the session) based on monolingual Europarl source files which contain speaker names on the paragraph level. We used meta-information of the members of the European Parliament (MEPs) released by Rabinovich et al. (2017) (which includes a.o. name, country, date of birth and gender predictions per MEP) to retrieve the demographic annotations. An example of the annotations used:
 
-An overview of the language pairs as well as the amount of annotated parallel sentences per language pair is given in below:
+An overview of the language pairs as well as the amount of annotated parallel sentences per language pair is given in table below:
 
-  EN-BG		306.380	    EN-LT		477.358	
-  EN-CS		491.848	    EN-LV		487.287	
-  EN-DA	  1.421.197   EN-NL		1.419.359	
-  EN-DE  	1.296.843	  EN-PL		478.008	
-  EN-EL		921.540	    EN-PT		1.426.043	
-  EN-ES		1.419.507 	EN-RO		303.396	
-  EN-ET		494.645	    EN-SK		488.351	
-  EN-FI 	1.393.572	  EN-SL		479.313	
-  EN-FR		1.440.620 	EN-SV		1.349.472	
-  EN-HU		251.833	    EN-LT		477.358	
-  EN-IT		1.297.635	  EN-LV		487.287	
+  EN-BG		306.380
+  EN-LT		477.358 
+  EN-CS		491.848
+  EN-LV		487.287	
+  EN-DA	  1.421.197
+  EN-NL		1.419.359  
+  EN-DE  	1.296.843
+  EN-PL		478.008  
+  EN-EL		921.540
+  EN-PT		1.426.043	  
+  EN-ES		1.419.507
+  EN-RO		303.396	
+  EN-ET		494.645
+  EN-SK		488.351  
+  EN-FI 	1.393.572
+  EN-SL		479.313	
+  EN-FR		1.440.620
+  EN-SV		1.349.472	
+  EN-HU		251.833
+  EN-LT		477.358	
+  EN-IT		1.297.635
+  EN-LV		487.287	
 
 The data is provided in zip files per language. Every zip file contains 3 files:
  
