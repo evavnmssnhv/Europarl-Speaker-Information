@@ -9,12 +9,12 @@ An overview of the language pairs as well as the amount of annotated parallel se
 
     EN-BG:		306.380
     EN-CS:		491.848
-    EN-DA:	  1.421.197
+    EN-DA:	    1.421.197
     EN-DE:  	1.296.843
     EN-EL:		921.540
     EN-ES:		1.419.507
     EN-ET:		494.645
-    EN-FI: 	  1.393.572
+    EN-FI: 	    1.393.572
     EN-FR:		1.440.620
     EN-HU:		251.833
     EN-IT:		1.297.635
