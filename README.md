@@ -1,5 +1,5 @@
 # Europarl-Speaker-Information
-Europarl parallel corpora with per sentence speaker annotations for 22 language pairs.
+Europarl parallel corpora with per sentence speaker annotations for 20 language pairs.
 
 The need for more personalized Machine Translation (MT) is highlighted in Mirkin et al. (2015). Nevertheless, research on personalized NMT remains scarce. One of the main challenges for more personalized MT systems is finding large enough annotated parallel datasets. Rabinovich et al. (2017) published an annotated parallel dataset for EN-FR and EN-DE, however, for many other language pairs no sufficiently large annotated datasets are available.
 
@@ -27,8 +27,7 @@ An overview of the language pairs as well as the number of annotated parallel se
     EN-SK:		488.351  
     EN-SL:		479.313	
     EN-SV:		1.349.472	
-    EN-LT:		477.358	
-    EN-LV:		487.287	
+
 
 The data is provided in zip files per language. Every zip file contains 3 files:
  
