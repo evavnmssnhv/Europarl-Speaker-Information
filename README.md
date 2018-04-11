@@ -32,22 +32,22 @@ An overview of the language pairs as well as the number of annotated parallel se
 
 The data is provided in zip files per language. Every zip file contains 3 files:
  
-  [1] SOURCE.source-target.txt:
-      Tokenized source data 
+  [1] SOURCE.source-target.txt: 
+  Tokenized source data 
       
       Example:
         Is the Commission taking the initiative going to be a question of weeks or a question of months ?
         I fully support this report and welcome its adoption by this Parliament .
 
-  [2] TARGET.source-target.txt
-      Tokenized parallel target data
+  [2] TARGET.source-target.txt: 
+  Tokenized parallel target data
       
       Example:
         Est-ce une question de semaines ou de mois ?
         Je soutiens pleinement ce rapport et je me réjouis de son adoption par ce Parlement .
 
-  [3] Tags.source-target.txt
-      Tags corresponding to the SOURCE and TARGET sentences providing information about the speaker, i.e. name, date of birth, date of the session, age of the speaker.
+  [3] Tags.source-target.txt:
+  Tags corresponding to the SOURCE and TARGET sentences providing information about the speaker, i.e. name, date of birth, date of the session, age of the speaker.
       
       Example:
         <LINECOUNT="5" EUROID="28257" NAME="ivo belet" LANGUAGE="UNK" GENDER="MALE" DATE_OF_BIRTH="1959-6-7" SESSION_DATE="11-02-15" AGE="52"/>
