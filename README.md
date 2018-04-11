@@ -1,7 +1,7 @@
 # Europarl-Speaker-Information
 Europarl parallel corpora with per sentence speaker annotations for 22 language pairs.
 
-The need for more personalized Machine Translation (MT) is highlighted in Mirkin et al. (2015). Nevertheless, research on personalized NMT remains scarce. One of the main challenges for more personalized MT systems is finding large enough annotated parallel datasets. Rabinovich et al. (2017) published an annotated parallel dataset for EN--FR and EN--DE, however, for many other language pairs no sufficiently large annotated datasets are available.
+The need for more personalized Machine Translation (MT) is highlighted in Mirkin et al. (2015). Nevertheless, research on personalized NMT remains scarce. One of the main challenges for more personalized MT systems is finding large enough annotated parallel datasets. Rabinovich et al. (2017) published an annotated parallel dataset for EN-FR and EN-DE, however, for many other language pairs no sufficiently large annotated datasets are available.
 
 To address the aforementioned problem, we compiled a collection of parallel corpora for 20 language pairs. We annotated parallel sentences from Europarl (Koehn, 2005) with speaker information (name, gender, age, date of birth, euroID and date of the session) based on monolingual Europarl source files which contain speaker names on the paragraph level. We used meta-information of the members of the European Parliament (MEPs) released by Rabinovich et al. (2017) (which includes a.o. name, country, date of birth and gender predictions per MEP) to retrieve the demographic annotations. An example of the annotations used:
 
@@ -53,6 +53,16 @@ The data is provided in zip files per language. Every zip file contains 3 files:
         <LINECOUNT="5" EUROID="28257" NAME="ivo belet" LANGUAGE="UNK" GENDER="MALE" DATE_OF_BIRTH="1959-6-7" SESSION_DATE="11-02-15" AGE="52"/>
         <LINECOUNT="6" EUROID="1289" NAME="proinsias de rossa" LANGUAGE="UNK" GENDER="MALE" DATE_OF_BIRTH="1940-5-15" SESSION_DATE="04-03-11" AGE="64"/>
 
+If you use our dataset, please cite:
+        
+    Eva Vanmassenhove, Christian Hardmeier, 2018. Europarl Datasets with Demographic Speaker Information. European      Association for Machine Translation (EAMT), May 28-30, Alicante, Spain [accepted].
 
+References:
+        
+        Ella Rabinovich, Shachar Mirkin, Raj Nath Patel, Lucia Specia and Shuly Wintner, 2017. Personalized Machine Translation: Preserving Original Author Traits. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017), April 3-7, Valencia, Spain, 1074--1084.
+
+        Philipp Koehn, 2005. Europarl: A parallel corpus for statistical machine translation. Proceedings of the In MT Summit, Phuket, September 12-16, Thailand, 79--86. 
+
+        Shachar Mirkin, Scott Nowson, Caroline Brun and Julien Perez, 2015. Motivating personality-aware machine translation. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, September 17-21, Lisbon, Portugal, 1102--1108.
 
 
