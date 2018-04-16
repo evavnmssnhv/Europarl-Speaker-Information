@@ -10,3 +10,4 @@ EN_NL.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_PL.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_PT.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_RO.tar.gz filter=lfs diff=lfs merge=lfs -text
+EN_S*.tar.gz filter=lfs diff=lfs merge=lfs -text
