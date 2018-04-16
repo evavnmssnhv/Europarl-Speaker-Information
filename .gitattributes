@@ -3,3 +3,4 @@ EN_DA.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_DE.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_E*.tar.gz filter=lfs diff=lfs merge=lfs -text
 EN_F*.tar.gz filter=lfs diff=lfs merge=lfs -text
+EN_HU.tar.gz filter=lfs diff=lfs merge=lfs -text
