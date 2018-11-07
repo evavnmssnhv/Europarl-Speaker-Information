@@ -1,3 +1,9 @@
+!!! IMPORTANT NOTICE!!!
+Some people informed me there were some issues downloading the files via GitHub. I am trying to resolve this issue asap, if you want to access the dataset right now please send an email to the following e-mail address: 
+
+    vanmassenhove.eva@gmail.com 
+
+
 # Europarl-Speaker-Information
 Europarl parallel corpora with per sentence speaker annotations for 20 language pairs.
 
@@ -55,8 +61,10 @@ The data is provided in zip files per language. Every zip file contains 3 files:
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 If you use our dataset, please cite:
+
+    Vanmassenhove, Eva, Christian Hardmeier, and Andy Way. "Getting Gender Right in Neural MT." Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP). November 2-4, Brussels, Belgium. 2018.
         
-    Eva Vanmassenhove and Christian Hardmeier, 2018. Europarl Datasets with Demographic Speaker Information. European      Association for Machine Translation (EAMT), May 28-30, Alicante, Spain [accepted].
+    Vanmassenhove, Eva, Christian Hardmeier. "Europarl Datasets with Demographic Speaker Information." Proceedings of the 2018 Conference of the European Association for Machine Translation (EAMT). May 28-30, Alicante, Spain. 2018.
 
 References:
         
